@@ -2,19 +2,17 @@
 Build the data for the Anecdotes of Oyasama in English and Japanese.
 
 # TODO
-* Extract keywords and track all of them. Reuse links to view associated Anecdotes.
-* Parse all and turn resulting data into JSON file.
-  * Include a master-list of all keywords with references an array of Anecdote numbers they're in.
-
-
+* Design icon and banner.
+* Make UI mobile friendly.
+* Change color of UI to differ from the Ofudesaki Browser
 <p align="center">
-  <img src="https://lewdev.github.io/apps/anecdotes-browser/assets/main.png" width="400"/><br/>
+  <img src="https://lewdev.github.io/apps/anecdotes-browser/img/main-icon.png" width="400"/><br/>
   <a href="https://lewdev.github.io/apps/anecdotes-browser">👉 Try Anecdotes Browser Here</a><br/>
 </p>
 
-
 ## 🛠️ Tools & Resources used
-
+* [Pure.css](https://purecss.io/) Minimal CSS framework
+* [Font Awesome](https://fontawesome.com/) Icon framework
 ## 👤 Author: Lewis Nakao
 I am a software engineer in Hawaii. Find more stuff I made [here](https://lewdev.github.io).
 
