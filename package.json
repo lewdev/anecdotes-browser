@@ -1,0 +1,11 @@
+{
+  "name": "anecdotes-browser",
+  "version": "1.0.0",
+  "description": "Browse the Anecdotes of Oyasama in English and Japanese.",
+  "scripts": {
+    "preinstall": "npm i serve concurrently opener -g",
+    "start": "concurrently \"serve src -p 3029\" \"opener http://localhost:3029\""
+  },
+  "author": "Lewis Nakao <lewdev@gmail.com>",
+  "license": "UNLICENSED"
+}
